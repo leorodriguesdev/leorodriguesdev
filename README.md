@@ -25,9 +25,9 @@
 
 <p align="center">
  📫 Connect with me<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px"><br><br><br>
-<a href="https://www.linkedin.com/in/on-leorodrigues/" target="blank"><img align="center" src="https://github.com/IncognitaDev/IncognitaDev/blob/master/icons/linkedin.png" alt="leorodrigues" width="30" height="30" /></a>
-<a href="https://www.facebook.com/on.leorodrigues/" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-128.png" alt="leorodrigues" width="30" height="30" /></a>
-<a href="https://www.instagram.com/on_leorodrigues/" target="blank"><img align="center" src="https://github.com/IncognitaDev/IncognitaDev/blob/master/icons/Instagram.png" alt="leorodrigues" width="30" height="30" /></a>
-<a href="https://twitter.com/on_leorodrigues"  target="blank"><img align="center" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" alt="leorodrigues" width="30" height="30" /></a>
+<a href="https://www.linkedin.com/in/on-leorodrigues/" target="_blank"><img align="center" src="https://github.com/IncognitaDev/IncognitaDev/blob/master/icons/linkedin.png" alt="leorodrigues" width="30" height="30" /></a>
+<a href="https://www.facebook.com/on.leorodrigues/" target="_blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-128.png" alt="leorodrigues" width="30" height="30" /></a>
+<a href="https://www.instagram.com/on_leorodrigues/" target="_blank"><img align="center" src="https://github.com/IncognitaDev/IncognitaDev/blob/master/icons/Instagram.png" alt="leorodrigues" width="30" height="30" /></a>
+<a href="https://twitter.com/on_leorodrigues"  target="_blank"><img align="center" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" alt="leorodrigues" width="30" height="30" /></a>
 </p>
 

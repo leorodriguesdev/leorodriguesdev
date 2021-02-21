@@ -31,3 +31,4 @@
 <a href="https://twitter.com/on_leorodrigues"  target="_blank"><img align="center" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" alt="leorodrigues" width="30" height="30" /></a>
 </p>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=onLeoRodrigues.onLeoRodrigues)

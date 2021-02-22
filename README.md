@@ -16,7 +16,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wp" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wp" width="40" height="40"/><br>
 <img src="https://github-readme-stats.vercel.app/api?username=onLeoRodrigues&show_icons=true&hide=html&theme=react" alt="leorodrigues"/>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onLeoRodrigues&show_icons=true&hide=html&theme=react&layout=compact" alt="leorodrigues"/>

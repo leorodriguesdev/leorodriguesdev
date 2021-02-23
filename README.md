@@ -1,11 +1,11 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Leonardo Rodrigues</h1>
-<h3 align="center">Student Web Developer with a focus on making the world a better place</h3>
+<h3 align="center">Student Web Developer with a focus on making the world a better place with technology</h3><br>
 
 - 💬 Ask me about **JavaScript, HTML, CSS, Php**
 
 - 📫 How to reach me **leorodriguesoffice@gmail.com**
 
-- ⚡ Fun fact **Oneye 😜**
+- ⚡ Curiosity is my surname 😜
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="html5"  width="40" height="40"/>

@@ -1,9 +1,9 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="18px">, I'm Leonardo Rodrigues</h1>
 <h3 align="center">Student Web Developer with a focus on making the world a better place with technology</h3><br>
 
-- 💬 Ask me about **JavaScript, HTML, CSS and Java+Spring♥**
+- 💬 Ask me about **JavaScript, HTML, CSS and React♥**
 
-- 🎯 Focusing on Angular and Java 🤓
+- 🎯 Focusing on JavaScrip and React 🤓
 
 - 📫 How to reach me **leorodriguesoffice@gmail.com**
 

@@ -1,16 +1,13 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="18px">, I'm Leonardo Rodrigues</h1>
 <h3 align="center">Student Web Developer with a focus on making the world a better place with technology</h3><br>
-<p align="center">
-- 💬 Ask me about **JavaScript, HTML, CSS and React♥**
 
-- 🎯 Focusing on JavaScript and React 🤓
-
-- 📫 How to reach me **leorodriguesoffice@gmail.com**
-
-- ⚡ Curiosity is my surname 😜
+<p align="center">💬 Ask me about **JavaScript, HTML, CSS and React♥**</p> 
+<p align="center">🎯 Focusing on JavaScript and React 🤓</p> 
+<p align="center">📫 How to reach me **leorodriguesoffice@gmail.com**</p> 
+<p align="center">⚡ Curiosity is my surname 😜</p> 
 
 ---
-</p> 
+
                              🧰 Toolbox
 <p align="center">
 

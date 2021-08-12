@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS and React♥**
 
-- 🎯 Focusing on JavaScrip and React 🤓
+- 🎯 Focusing on JavaScript and React 🤓
 
 - 📫 How to reach me **leorodriguesoffice@gmail.com**
 

@@ -1,10 +1,9 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="18px">, I'm Leonardo Rodrigues</h1>
-<h3 align="center">Student Web Developer with a focus on making the world a better place with technology</h3><br>
 
-<p align="center">💬 Ask me about **JavaScript, HTML, CSS and React♥**</p> 
-<p align="center">🎯 Focusing on JavaScript and React 🤓</p> 
-<p align="center">📫 How to reach me **leorodriguesoffice@gmail.com**</p> 
-<p align="center">⚡ Curiosity is my surname 😜</p> 
+
+<p align="center">🎯 Focusing on Tests, development front-end with JavaScript and React 🤓</p> 
+
+<p align="center">📫 How to reach me leorodriguesoffice@gmail.com</p> 
 
 ---
 
@@ -17,7 +16,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="react" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="html5"  width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="html5"  width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="40" height="40"/>

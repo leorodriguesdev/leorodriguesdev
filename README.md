@@ -1,9 +1,9 @@
 <h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="18px">, I'm Leonardo Rodrigues</h1>
 
 
-<p align="left">🎯 Focusing on Tests, development front-end with JavaScript and React 🤓</p> 
+<p align="left">🎯 work as QA, focusing on development front-end with JavaScript and React 🤓</p> 
 
-<p align="left">📫 How to reach me leorodriguesoffice@gmail.com</p> 
+<p align="left">👉 NetWork Go! ><a href="https://bio.link/leorodriguesdev">my.links</a></p> 
 <p>🧰 Toolbox:</p>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="html5"  width="40" height="40"/>
@@ -21,18 +21,9 @@
 <br>
 </p>
 
-<p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=onLeoRodrigues&show_icons=true&hide=html&theme=react" alt="leorodrigues"/>
-<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onLeoRodrigues&show_icons=true&hide=html&theme=react&layout=compact" alt="leorodrigues"/>
-</p>
 
-<p align="right">
- 📫 Connect with me<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px"><br><br><br>
-<a href="https://www.linkedin.com/in/on-leorodrigues/" target="_blank"><img align="center" src="https://github.com/IncognitaDev/IncognitaDev/blob/master/icons/linkedin.png" alt="leorodrigues" width="30" height="30" /></a>
-<a href="https://www.facebook.com/on.leorodrigues/" target="_blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-128.png" alt="leorodrigues" width="30" height="30" /></a>
-<a href="https://www.instagram.com/on_leorodrigues/" target="_blank"><img align="center" src="https://github.com/IncognitaDev/IncognitaDev/blob/master/icons/Instagram.png" alt="leorodrigues" width="30" height="30" /></a>
-<a href="https://twitter.com/on_leorodrigues"  target="_blank"><img align="center" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" alt="leorodrigues" width="30" height="30" /></a>
-</p>
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=onLeoRodrigues.onLeoRodrigues)

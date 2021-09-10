@@ -1,7 +1,7 @@
 <h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="18px">, I'm Leonardo Rodrigues</h1>
 
 
-<p align="left">🎯 work as QA, focusing on development front-end with JavaScript and React 🤓</p> 
+<p align="left">🎯 Focusing on development front-end with JavaScript and React 🤓</p> 
 
 <p align="left">👉 NetWork Go! ><a href="https://bio.link/leorodriguesdev">my.links</a></p> 
 <p>🧰 Toolbox:</p>

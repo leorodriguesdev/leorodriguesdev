@@ -4,7 +4,7 @@
 <p align="left">🎯 With focus on the front-end development  with JavaScript, React,  React Native and NodeJS 🤓</p> 
 
 <p align="left">👉 NetWork Go! ><a href="https://bio.link/leorodriguesdev">my.links</a></p> 
-<p>🧰 Toolbox <strong>{</strong></p>
+<p>🧰 <strong>Toolbox {</strong></p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode"  width="30" height="30"/>
 </p>
 <p align="left">
@@ -24,8 +24,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring"   width="30" height="30"/>      <strong>|</strong>      
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"  width="30" height="30"/>  <strong>)</strong>
 <br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg
-" alt="wp" width="40" height="40"/><strong>};</strong>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wp" width="40" height="40"/>  <strong>};</strong>  
 <br>
 </p>
 

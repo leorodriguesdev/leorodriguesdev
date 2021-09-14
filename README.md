@@ -1,4 +1,7 @@
-<h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="18px">, I'm Leonardo Rodrigues</h1>
+
+
+<img src=".github/logoleo.png" alt="logo léo"  width="400"/><h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="18px">, I'm Leonardo Rodrigues</h1>
+
 
 
 <p align="left">🎯 With focus on the front-end development  with JavaScript, React,  React Native and NodeJS 🤓</p> 
@@ -38,6 +41,7 @@
 </code>
 <img src="https://github-readme-stats.vercel.app/api?username=onLeoRodrigues&show_icons=true&hide=html&theme=react" alt="leorodrigues"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onLeoRodrigues&show_icons=true&hide=html&theme=react&layout=compact" alt="leorodrigues"/>
+
 
 
 

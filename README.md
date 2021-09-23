@@ -1,12 +1,9 @@
 
-
-<h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="18px">, I'm Leonardo Rodrigues</h1>
-
 <p align="center">
-<img src=".github/logoleo.png" alt="logo léo"  width="290"/>
+<img src=".github/bannerleo.png" alt="banner léo"/>
 </p>
 
-
+<h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="18px">, I'm Leonardo Rodrigues</h1>
 
 <p align="left">🎯 With focus on the front-end development  with JavaScript, React,  React Native and NodeJS 🤓</p> 
 

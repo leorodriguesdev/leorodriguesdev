@@ -5,7 +5,7 @@ export const developer = {
     name: "Leonardo Rodrigues",
     about: "With focus on the front-end development with JavaScript, React, React Native and NodeJS.",
     age: 27,
-    skills: [ HTML, CSS, JavaScript, TypeScript, React, React Native, Next, Node ], 
+    skills: [ Html, Css, JavaScript, TypeScript, React, React Native, Next, Node ], 
     tools: [ VScode, Figma, PhotoShop,  Jira, Discord ]
 }
 
@@ -30,6 +30,9 @@ export const developer = {
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=onLeoRodrigues&show_icons=true&hide=html&theme=react" alt="leorodrigues"/>
+</p>
+
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onLeoRodrigues&show_icons=true&hide=html&theme=react&layout=compact" alt="leorodrigues"/>
 </p>
 

@@ -1,5 +1,3 @@
-
-
 ```js
 export const developer = { 
     name: "Leonardo Rodrigues",
@@ -34,6 +32,9 @@ export const developer = {
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leorodriguesdev&show_icons=true&hide=html&theme=react&layout=compact" alt="leorodrigues"/>
+</p>
+<p align="center">
+<img src=".github/logoleo.png" alt="vscode"  width="330"/>
 </p>
 
 👉 <a href="https://bio.link/leorodriguesdev"><img alt="Network" src="https://img.shields.io/badge/Network Go!-My Links-yellow"></a>

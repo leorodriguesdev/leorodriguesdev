@@ -29,16 +29,16 @@ export const developer = {
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=onLeoRodrigues&show_icons=true&hide=html&theme=react" alt="leorodrigues"/>
+<img src="https://github-readme-stats.vercel.app/api?username=leorodriguesdev&show_icons=true&hide=html&theme=react" alt="leorodrigues"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onLeoRodrigues&show_icons=true&hide=html&theme=react&layout=compact" alt="leorodrigues"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leorodriguesdev&show_icons=true&hide=html&theme=react&layout=compact" alt="leorodrigues"/>
 </p>
 
 👉 <a href="https://bio.link/leorodriguesdev"><img alt="Network" src="https://img.shields.io/badge/Network Go!-My Links-yellow"></a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=onLeoRodrigues.onLeoRodrigues)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=leorodriguesdev.leorodriguesdev)
 
 
 

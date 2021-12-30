@@ -1,11 +1,31 @@
 ```js
-export const developer = { 
-    name: "Leonardo Rodrigues",
-    about: "With focus on the front-end development with JavaScript, React, React Native and NodeJS.",
-    age: 27,
-    skills: [ Html, Css, JavaScript, TypeScript, React, React Native, Next, Node ], 
-    tools: [ VScode, Figma, PhotoShop,  Jira, Discord ]
-}
+export const developer = [
+    { 
+        name: "Leonardo Rodrigues",
+        about: "With focus on the front-end development with JavaScript, React, React Native and NodeJS.",
+        age: 27,
+        currentFocus: "React Native",
+        skills: [ 
+                    "Html", 
+                    "Css", 
+                    "JavaScript", 
+                    "TypeScript", 
+                    "React", 
+                    "React Native", 
+                    "Next", 
+                    "Node" 
+                ],
+        tools:  [ 
+                    "VScode", 
+                    "Figma", 
+                    "PhotoShop",
+                    "Gimp"  
+                    "Jira", 
+                    "Discord" 
+                ],
+        methodology: "Agile"
+    }
+]
 
 ```
 <p align="center">
@@ -38,8 +58,3 @@ export const developer = {
 </p>
 
 👉 <a href="https://bio.link/leorodriguesdev"><img alt="Network" src="https://img.shields.io/badge/Network Go!-My Links-yellow"></a>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=leorodriguesdev.leorodriguesdev)
-
-
-

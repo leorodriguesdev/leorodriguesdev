@@ -3,8 +3,8 @@
 export const developer = [
     { 
         name: "Leonardo Rodrigues",
-        about: "With focus on the front-end development with JavaScript, React, React Native and NodeJS.",
-        age: 27,
+        about: "With focus on the front-end development in front-end and mobile with JavaScript.",
+        age: 29,
         currentFocus: "React Native",
     }
 ]

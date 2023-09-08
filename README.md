@@ -3,71 +3,99 @@
 export const developer = [
     { 
         name: "Leonardo Rodrigues",
-        about: "With focus on the front-end development in front-end and mobile with JavaScript.",
+        about: "Analista de sistemas pleno na FIERGS, com vasta experiência em desenvolvimento front-end (HTML, CSS, JavaScript, Bootstrap, Angular, React) e mobile (Flutter, React Native). Certificado em React.js, React Native e Node.js. Experiência na modernização de aplicativos bancários e metodologias ágeis. Formado em Análise e Desenvolvimento de Sistemas pela Estácio de Sá.",
         age: 29,
-        currentFocus: "React Native",
+        currentFocus: "React e React Native",
     }
 ]
 
 ```
 
 ### 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leorodriguesdev) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@leorodriguesdev) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://facebook.com/leorodrigues.dev) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/leorodriguesdev) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-414141?style=plastic&logo=linkedin)](https://www.linkedin.com/in/leorodriguesdev) 
+[![Instagram](https://img.shields.io/badge/Instagram-414141?style=plastic&logo=Instagram)](https://instagram.com/@leorodriguesdev) 
+[![Facebook](https://img.shields.io/badge/Facebook-414141?style=plastic&logo=Facebook)](https://facebook.com/https://facebook.com/leorodrigues.dev) 
+[![Twitter](https://img.shields.io/badge/Twitter-414141?style=plastic&logo=Twitter)](https://twitter.com/https://twitter.com/leorodriguesdev) 
 
 ### 💻 Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) 
+![Windows](https://img.shields.io/badge/Windows-414141?style=plastic&logo=windows)
+![macOS](https://img.shields.io/badge/Mac-414141?style=plastic&logo=macOS)
+![Linux](https://img.shields.io/badge/Linux-414141?style=plastic&logo=linux)
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
-![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) 
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white) 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) 
 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=plastic&logo=expo&logoColor=#D04A37) 
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-414141?style=plastic&logo=android-studio)
+![Eclipse](https://img.shields.io/badge/Eclipse-414141?style=plastic&logo=Eclipse)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-414141?style=plastic&logo=intellij-idea)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-414141?style=plastic&logo=visual-studio-code)
+![Xcode](https://img.shields.io/badge/Xcode-414141?style=plastic&logo=Xcode)
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) 
+![Android](https://img.shields.io/badge/Android-414141?style=plastic&logo=android)
+![iOS](https://img.shields.io/badge/iOS-414141?style=plastic&logo=ios)
 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) 
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) 
 
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white) 
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-414141?style=plastic&logo=html5)
+![CSS3](https://img.shields.io/badge/css3-414141?style=plastic&logo=css3)
+![SASS](https://img.shields.io/badge/SASS-414141?style=plastic&logo=SASS) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-414141?style=plastic&logo=bootstrap)
+![Babel](https://img.shields.io/badge/Blade-414141?style=plastic&logo=Laravel)
+![WordPress](https://img.shields.io/badge/WordPress-414141?style=plastic&logo=WordPress)
 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) 
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) 
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) 
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) 
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=plastic&logo=adobeillustrator&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) 
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6) 
-![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=plastic&logo=gimp&logoColor=FFFFFF) 	
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 
-![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=plastic&logo=dribbble&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-414141?style=plastic&logo=javascript)
+![Php](https://img.shields.io/badge/php-414141?style=plastic&logo=php)
+![TypeScript](https://img.shields.io/badge/typescript-414141?style=plastic&logo=typescript) 
+![jQuery](https://img.shields.io/badge/jquery-414141?style=plastic&logo=jquery)
+![React](https://img.shields.io/badge/react-414141?style=plastic&logo=react) 
+![Next JS](https://img.shields.io/badge/Next-414141?style=plastic&logo=next.js) 
+![NestJS](https://img.shields.io/badge/nestjs-414141?style=plastic&logo=nestjs) 
+![Redux](https://img.shields.io/badge/redux-414141?style=plastic&logo=redux)
+![Angular](https://img.shields.io/badge/Angular-414141?style=plastic&logo=angular)
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) 
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) 
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white) 
-![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=plastic&logo=babel&logoColor=black) 
 
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white) 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-414141?style=plastic&logo=react)
+![Expo](https://img.shields.io/badge/expo-414141?style=plastic&logo=expo) 
+![Kotlin](https://img.shields.io/badge/kotlin-414141?style=plastic&logo=kotlin)
+![Flutter](https://img.shields.io/badge/Flutter-414141?style=plastic&logo=Flutter)
+
+![NodeJS](https://img.shields.io/badge/node.js-414141?style=plastic&logo=node.js) 
+![Java](https://img.shields.io/badge/java-414141?style=plastic&logo=openjdk) 
+![Spring](https://img.shields.io/badge/spring-414141?style=plastic&logo=spring) 
+
+![Firebase](https://img.shields.io/badge/firebase-414141?style=plastic&logo=firebase) 
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-414141?style=plastic&logo=google-cloud) 
+![Heroku](https://img.shields.io/badge/heroku-414141?style=plastic&logo=heroku) 
+![Vercel](https://img.shields.io/badge/vercel-414141?style=plastic&logo=vercel) 
+
+![NPM](https://img.shields.io/badge/NPM-414141?style=plastic&logo=npm) 
+![Yarn](https://img.shields.io/badge/yarn-414141?style=plastic&logo=yarn) 
+
+![Apache](https://img.shields.io/badge/apache-414141?style=plastic&logo=apache) 
+![Nginx](https://img.shields.io/badge/nginx-414141?style=plastic&logo=nginx) 
+![Jenkins](https://img.shields.io/badge/jenkins-414141?style=plastic&logo=jenkins) 
+![Postgres](https://img.shields.io/badge/postgres-414141?style=plastic&logo=postgresql) 
+![MySQL](https://img.shields.io/badge/mysql-414141?style=plastic&logo=mysql) 
+
+![Figma](https://img.shields.io/badge/figma-414141?style=plastic&logo=figma) 
+![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-414141?style=plastic&logo=adobeillustrator) 
+![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-414141?style=plastic&logo=adobephotoshop) 
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-414141?style=plastic&logo=Adobe%20XD) 
+![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-414141?style=plastic&logo=gimp) 	
+![Canva](https://img.shields.io/badge/Canva-414141?style=plastic&logo=Canva) 
+![Dribbble](https://img.shields.io/badge/Dribbble-414141?style=plastic&logo=dribbble) 
+
+![Docker](https://img.shields.io/badge/docker-414141?style=plastic&logo=docker) 
+![ESLint](https://img.shields.io/badge/ESLint-414141?style=plastic&logo=eslint) 
+![Postman](https://img.shields.io/badge/Postman-414141?style=plastic&logo=postman) 
+![Swagger](https://img.shields.io/badge/-Swagger-414141?style=plastic&logo=swagger) 
+![Babel](https://img.shields.io/badge/Babel-414141?style=plastic&logo=babel) 
+
+![Trello](https://img.shields.io/badge/Trello-414141?style=plastic&logo=Trello) 
+![Jira](https://img.shields.io/badge/jira-414141?style=plastic&logo=jira)
+
+![Git](https://img.shields.io/badge/git-414141?style=plastic&logo=git)
+![GitHub](https://img.shields.io/badge/github-414141?style=plastic&logo=github)
+![Gitlab](https://img.shields.io/badge/gitlab-414141?style=plastic&logo=gitlab)
+![Bitbucket](https://img.shields.io/badge/bitbucket-414141?style=plastic&logo=bitbucket)
 
 ### 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=leorodriguesdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -80,11 +108,5 @@ export const developer = [
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
-<p>
-<img src=".github/logoleo.png" alt="vscode"  width="330"/>
-</p>
 
 👉 <a href="https://bio.link/leorodriguesdev"><img alt="Network" src="https://img.shields.io/badge/Network Go!-My Links-yellow"></a>

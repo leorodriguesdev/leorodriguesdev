@@ -3,7 +3,10 @@
 export const developer = [
     { 
         name: "Leonardo Rodrigues",
-        about: "Analista de sistemas pleno na FIERGS, com vasta experiência em desenvolvimento front-end (HTML, CSS, JavaScript, Bootstrap, Angular, React) e mobile (Flutter, React Native). Certificado em React.js, React Native e Node.js. Experiência na modernização de aplicativos bancários e metodologias ágeis. Formado em Análise e Desenvolvimento de Sistemas pela Estácio de Sá.",
+        about: "Analista de sistemas pleno na FIERGS, com vasta experiência em desenvolvimento 
+        front-end (HTML, CSS, JavaScript, Bootstrap, Angular, React) e mobile (Flutter, React Native). 
+        Certificado em React.js, React Native e Node.js. Experiência na modernização de aplicativos 
+        bancários e metodologias ágeis. Formado em Análise e Desenvolvimento de Sistemas pela Estácio de Sá.",
         age: 29,
         currentFocus: "React e React Native",
     }

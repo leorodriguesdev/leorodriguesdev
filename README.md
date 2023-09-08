@@ -15,7 +15,7 @@ export const developer = [
 ```
 
 ### 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/linkedin-414141?style=plastic&logo=linkedin)](https://www.linkedin.com/in/leorodriguesdev) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-414141?style=plastic&logo=linkedin&logoColor=2A67B0)](https://www.linkedin.com/in/leorodriguesdev) 
 [![Instagram](https://img.shields.io/badge/Instagram-414141?style=plastic&logo=Instagram)](https://instagram.com/leorodriguesdev) 
 [![Facebook](https://img.shields.io/badge/Facebook-414141?style=plastic&logo=Facebook)](https://facebook.com/leorodrigues.dev) 
 [![Twitter](https://img.shields.io/badge/Twitter-414141?style=plastic&logo=Twitter)](https://twitter.com/leorodriguesdev) 

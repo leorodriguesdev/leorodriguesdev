@@ -1,7 +1,6 @@
 
 ```js
-export const developer = [
-    { 
+export const developer = { 
         name: "Leonardo Rodrigues",
         about: "Analista de sistemas pleno na FIERGS, com vasta experiência em desenvolvimento 
         front-end (HTML, CSS, JavaScript, Bootstrap, Angular, React) e mobile (Flutter, React Native). 
@@ -10,7 +9,6 @@ export const developer = [
         age: 29,
         currentFocus: "React e React Native",
     }
-]
 
 ```
 

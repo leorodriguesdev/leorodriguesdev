@@ -8,7 +8,7 @@ export const developer = {
         bancários e metodologias ágeis. Formado em Análise e Desenvolvimento de Sistemas pela Estácio de Sá.",
         age: 29,
         currentFocus: "React e React Native",
-    }
+    };
 
 ```
 

@@ -1,13 +1,11 @@
 # Leonardo Rodrigues 🚀
-**Desenvolvedor Front-end e Mobile Pleno | Experiência em Projetos Bancários | Focado em React, React Native, Node.js e Next.js**
+**Desenvolvedor Front-end e Mobile Pleno | Focado em React, React Native, Node.js e Next.js**
 
----
 
 ## 👨‍💻 Sobre Mim
 
 Sou desenvolvedor com foco em criar soluções práticas e eficientes melhorando a experiência dos usuários. Tenho experiência no desenvolvimento front-end e mobile, onde ajudo empresas a modernizar aplicativos e aplicar boas práticas.
 
----
 
 ## 🌱 Atualmente
 
@@ -16,7 +14,6 @@ Sou desenvolvedor com foco em criar soluções práticas e eficientes melhorando
 - **Certificações:** React.js, React Native, Node.js
 - **Formação:** Graduado em Análise e Desenvolvimento de Sistemas pela Estácio de Sá, Programação Web pelo IFRS
 
----
 
 ## 💼 Projetos Destacados
 
@@ -24,7 +21,6 @@ Sou desenvolvedor com foco em criar soluções práticas e eficientes melhorando
 - **Sistema de Integração com APIs:** Desenvolvimento de sistema com Node.js para integração de dados entre o front-end (Next.js) e o back-end, melhorando a performance e a segurança.
 - **Portal de Atendimento ao Cliente:** Portal criado com Next.js e Tailwind CSS para gerenciamento de solicitações e atendimento em tempo real, proporcionando uma experiência de usuário otimizada.
 
----
 
 ## 🌐 Redes Sociais
 
@@ -32,7 +28,6 @@ Sou desenvolvedor com foco em criar soluções práticas e eficientes melhorando
 [![Instagram](https://img.shields.io/badge/Instagram-414141?style=for-the-badge&logo=Instagram)](https://instagram.com/leorodrigues.dev)
 [![Twitter](https://img.shields.io/badge/Twitter-414141?style=for-the-badge&logo=Twitter)](https://twitter.com/leorodriguesdev)
 
----
 
 ## 🛠️ Tech Stack
 
@@ -78,25 +73,21 @@ Sou desenvolvedor com foco em criar soluções práticas e eficientes melhorando
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-414141?style=for-the-badge&logo=Adobe%20XD)
 ![Canva](https://img.shields.io/badge/Canva-414141?style=for-the-badge&logo=Canva)
 
----
 
 ## 📈 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leorodriguesdev&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
----
 
 ## 🏆 GitHub Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=leorodriguesdev&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
----
 
 ## ✍️ Citação
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
 
 ## 🌐 Outros Links
 

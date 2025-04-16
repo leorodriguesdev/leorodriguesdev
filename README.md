@@ -9,7 +9,7 @@
 
 [![Outros Links](https://img.shields.io/badge/Meus_Links-bio.link/leorodriguesdev-1DB954)](https://bio.link/leorodriguesdev)
 
-![Snake animation](https://github.com/leorodriguesdev/leorodriguesdev/blob/output/github-contribution-grid-snake.svg) 
+![Snake animation](https://github.com/leorodriguesdev/leorodriguesdev/blob/main/blob/output/github-contribution-grid-snake.svg) 
 
 ### Tech Stack
 

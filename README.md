@@ -1,7 +1,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=leorodriguesdev&style=flat)
 
 # Leonardo Rodrigues 
-**Desenvolvedor Front-end e Mobile Pleno | Focado em React, React Native, Node.js e Next.js**
+**Desenvolvedor Front-end e Mobile | Focado em React, React Native, Node.js e Next.js**
 
 ![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=1DB954&width=435&lines=Front‑end+%2B+Mobile+Developer;React+%7C+React+Native+%7C+Next.js;Muito+código+e+café)
 
